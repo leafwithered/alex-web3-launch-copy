@@ -1,0 +1,52 @@
+# Alex | Web3 Launch Copy
+
+I help crypto builders turn rough product notes into clean English launch, bounty, or grant submission content.
+
+## Packages
+
+Basic X Post - 25 USDT
+
+- 1 polished English X post
+- 1 CTA reply or CTA line
+- 3 hook alternatives
+- 1 short explanation note
+
+Launch / Submission Pack - 39 USDT
+
+- 5-7 post English X thread or 5 single-post options
+- CTA reply or final CTA post
+- Product explanation in simple English
+- Submission copy for Superteam, hackathons, grant forms, or launch pages
+- Proof checklist: links, tags, CTA, screenshots, and submission notes
+
+Quick Roast - 25 USDT
+
+- 5 specific issues in the landing page, GitHub README, X profile, or submission draft
+- 5 rewritten hooks/headlines
+- 3 immediate fixes
+
+## Proof Of Work
+
+- CopyMarket reviewer page / GitHub: https://leafwithered.github.io/copymarket-agent-economy/
+- Streamflow X thread: https://x.com/leafmyx/status/2074706976857321846
+- Umbra single X post: https://x.com/leafmyx/status/2074736255754244218
+
+These examples show project explanation, CTA structure, reviewer-friendly framing, and proof checklist style. They are not presented as paid-client results unless a payout is confirmed.
+
+## What I Need
+
+- Website, GitHub, docs, demo, bounty page, or rough notes
+- Target audience or reviewer
+- Main action you want the reader to take
+- 2-3 strongest product points
+- Claims or words to avoid
+
+## Contact
+
+Telegram: https://t.me/hierarchleaf
+
+Email: hierarchleaf@gmail.com
+
+Payment after scope confirmation: USDT on TRON/TRC20.
+
+I do not post from client accounts, guarantee wins or engagement, provide financial advice, fake engagement, or ask for seed phrases/private keys.

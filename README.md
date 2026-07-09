@@ -4,26 +4,28 @@ I help crypto builders turn rough product notes into clean English launch, bount
 
 ## Packages
 
-Basic X Post - 25 USDT
+Basic X Post - 29 USDT
 
 - 1 polished English X post
 - 1 CTA reply or CTA line
 - 3 hook alternatives
 - 1 short explanation note
 
-Launch / Submission Pack - 39 USDT
+Launch Pack - 49 USDT
 
 - 5-7 post English X thread or 5 single-post options
 - CTA reply or final CTA post
 - Product explanation in simple English
-- Submission copy for Superteam, hackathons, grant forms, or launch pages
+- Short submission copy for Superteam, hackathons, grant forms, or launch pages
 - Proof checklist: links, tags, CTA, screenshots, and submission notes
 
-Quick Roast - 25 USDT
+Submission / README Pack - 79 USDT
 
-- 5 specific issues in the landing page, GitHub README, X profile, or submission draft
-- 5 rewritten hooks/headlines
-- 3 immediate fixes
+- Launch content plus fuller submission copy
+- README intro or landing-page hero polish
+- Product explanation in simple English
+- Proof checklist: links, tags, CTA, screenshots, and submission notes
+- 5-7 hook/headline options
 
 ## Proof Of Work
 

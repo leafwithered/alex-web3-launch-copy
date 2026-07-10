@@ -1,25 +1,25 @@
 # Alex | Web3 Launch Copy
 
-I help crypto builders turn rough product notes into clean English launch, bounty, or grant submission content.
+I help crypto builders turn rough product notes, websites, GitHub repos, and demos into clean English launch copy, README intros, product explainers, and proof checklists.
 
 ## Packages
 
-Basic X Post - 29 USDT
+Quick Audit - 49 USDT
 
-- 1 polished English X post
-- 1 CTA reply or CTA line
-- 3 hook alternatives
-- 1 short explanation note
+- Review your website, GitHub, demo, or rough notes
+- 5-7 concrete clarity and positioning notes
+- 1 stronger hook or headline rewrite
+- Short next-action checklist
 
-Launch Pack - 49 USDT
+Launch Copy Pack - 89 USDT
 
-- 5-7 post English X thread or 5 single-post options
-- CTA reply or final CTA post
+- 1 polished X post or 5-7 post English X thread
+- 3 hook/headline options
+- CTA reply or final CTA line
 - Product explanation in simple English
-- Short submission copy for Superteam, hackathons, grant forms, or launch pages
-- Proof checklist: links, tags, CTA, screenshots, and submission notes
+- Landing-page hero or README intro polish
 
-Submission / README Pack - 79 USDT
+Submission / README Pack - 129 USDT
 
 - Launch content plus fuller submission copy
 - README intro or landing-page hero polish
@@ -37,7 +37,7 @@ These examples show project explanation, CTA structure, reviewer-friendly framin
 
 ## What I Need
 
-- Website, GitHub, docs, demo, bounty page, or rough notes
+- Website, GitHub, docs, demo, product page, or rough notes
 - Target audience or reviewer
 - Main action you want the reader to take
 - 2-3 strongest product points
